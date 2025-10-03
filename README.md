@@ -1,4 +1,4 @@
-# Blinkit-Sales-Dashboard-PowerBI
+# Blinkit Sales Dashboard PowerBI
 
 This repository showcases my Power BI dashboard project built using the Blinkit Grocery Sales dataset. As a beginner Data Analyst and fresher, I created this project to strengthen my skills in data cleaning, transformation, and visualization while working with real-world business data.
 
